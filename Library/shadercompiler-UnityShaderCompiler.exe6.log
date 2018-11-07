@@ -1,0 +1,41 @@
+Base path: C:/Program Files/Unity 2018.1.0b10/2018.3.0b7/Editor/Data
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=13661 outsize=54609 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13661 outsize=39761 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13661 outsize=31105 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13661 outsize=31329 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13661 outsize=59153 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=26681 outsize=15857 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2134 outsize=1517 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1326 outsize=669 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2863 outsize=48145 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=6938 outsize=5045 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5022 outsize=5397 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=19063 outsize=15261 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=20364 outsize=95037 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16866 outsize=6817 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16866 outsize=9453 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16866 outsize=6685 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16866 outsize=8849 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16866 outsize=10773 ok=1
+Unhandled exception: Protocol error - unexpected end of data (did the Editor crash?)
+
+Quitting shader compiler process

@@ -1,0 +1,61 @@
+Base path: C:/Program Files/Unity 2018.1.0b10/2018.3.0b7/Editor/Data
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=13661 outsize=35369 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13661 outsize=32165 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13661 outsize=47361 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13661 outsize=57065 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13661 outsize=40497 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13661 outsize=58809 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=26681 outsize=16285 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1326 outsize=613 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=18731 outsize=8681 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=19063 outsize=14889 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1504 outsize=577 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5591 outsize=6445 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=21751 outsize=21785 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1864 outsize=553 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=692 outsize=573 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1580 outsize=16105 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=35430 outsize=42617 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=17300 outsize=6621 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9718 outsize=3673 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16866 outsize=5233 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16866 outsize=7009 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16866 outsize=7333 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16866 outsize=6877 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16866 outsize=7069 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16866 outsize=8501 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16866 outsize=9789 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4750 outsize=2033 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=11758 outsize=4765 ok=1
+Unhandled exception: Protocol error - unexpected end of data (did the Editor crash?)
+
+Quitting shader compiler process

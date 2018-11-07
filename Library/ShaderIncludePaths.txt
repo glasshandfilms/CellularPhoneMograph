@@ -1,2 +1,0 @@
-C:\Users\Fin\Documents\CineversityMographUnity\Unity\CellularPhoneMograph\Library\PackageCache\com.unity.render-pipelines.high-definition@4.0.1-preview
-C:\Users\Fin\Documents\CineversityMographUnity\Unity\CellularPhoneMograph\Library\PackageCache\com.unity.shadergraph@4.0.1-preview
